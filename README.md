@@ -1,4 +1,6 @@
-# Andreeib Andreeib
+# Homebrew
+
+Personal tap for [`Homebrew`](http://brew.sh).
 
 ## How do I install these formulae?
 
